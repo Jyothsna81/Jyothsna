@@ -19,7 +19,7 @@ _Content Writer and Subject Matter Expert_<br>
 ### Stanford University, Palo Alto, CA	                                                                                     2006 
  _Research Assistant_<br> 
 - Worked on supplychain casestudies.
-- Created project-based content to help high school students succeed in math and science courses.  
+- Created project-based content to introduce the concepts of Business Management to high school students. 
 - Worked with a team of analysts to understand and identify several issues in the Stanford Blood Bank’s supply chain process.
 
 ### Education 
